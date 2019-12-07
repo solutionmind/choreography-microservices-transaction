@@ -1,0 +1,10 @@
+C:\workspaces\microservices\choreography-transaction-demo\inventory-service\src\main\java\com\techrocking\inventory\kafka\message\ItemFetchedMessage.java
+C:\workspaces\microservices\choreography-transaction-demo\inventory-service\src\main\java\com\techrocking\inventory\kafka\message\PaymentFailedMessage.java
+C:\workspaces\microservices\choreography-transaction-demo\inventory-service\src\main\java\com\techrocking\inventory\kafka\message\OrderPlacedMessage.java
+C:\workspaces\microservices\choreography-transaction-demo\inventory-service\src\main\java\com\techrocking\inventory\kafka\source\ItemFetchedEventSource.java
+C:\workspaces\microservices\choreography-transaction-demo\inventory-service\src\main\java\com\techrocking\inventory\InventoryServiceApplication.java
+C:\workspaces\microservices\choreography-transaction-demo\inventory-service\src\main\java\com\techrocking\inventory\listener\OrderPlacedEventListener.java
+C:\workspaces\microservices\choreography-transaction-demo\inventory-service\src\main\java\com\techrocking\inventory\listener\PaymentFailedEventListener.java
+C:\workspaces\microservices\choreography-transaction-demo\inventory-service\src\main\java\com\techrocking\inventory\kafka\message\ItemOutOfStockMessage.java
+C:\workspaces\microservices\choreography-transaction-demo\inventory-service\src\main\java\com\techrocking\inventory\kafka\source\ItemOutOfStockEventSource.java
+C:\workspaces\microservices\choreography-transaction-demo\inventory-service\src\main\java\com\techrocking\inventory\service\InventoryService.java
