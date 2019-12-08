@@ -6,9 +6,6 @@
 - Shipping-service
 - Notification-service
 
-### orchestrator in saga
-- orchestration-service
-
 ###  Build the project - 
 mvn clean </br>
 mvn install
